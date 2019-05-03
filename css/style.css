@@ -7449,7 +7449,6 @@ h1, h2, h3, h4, h5,
 
 #colorlib-main {
   width: 100%;
-  float: right;
   -moz-transition: all 0.5s ease;
   -o-transition: all 0.5s ease;
   -webkit-transition: all 0.5s ease;
@@ -7457,7 +7456,7 @@ h1, h2, h3, h4, h5,
   transition: all 0.5s ease; }
   @media (min-width: 992px) {
     #colorlib-main {
-      width: 75%; } }
+      width: 100%; } }
 
 .colorlib-nav-toggle {
   cursor: pointer;
